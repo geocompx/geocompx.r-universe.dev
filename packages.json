@@ -2,5 +2,9 @@
   {
     "package": "geocompkg",
     "url": "https://github.com/geocompx/geocompkg"
-  }
+  },
+  {
+    "package": "tmapbook",
+    "url": "https://github.com/geocompx/tmap"
+  },  
 ]
