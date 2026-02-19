@@ -6,5 +6,9 @@
   {
     "package": "tmapbook",
     "url": "https://github.com/geocompx/tmapbook"
+  },
+  {
+    "package": "spDataLarge",
+    "url": "https://github.com/nowosad/spDataLarge"
   }
 ]
